@@ -21,7 +21,7 @@ keeping this to pay Respect to boilerplate code
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arpan Srivastava
 ========================================================================================================================================
 
-Front-end & design wizard 🧙‍♂️
+Front-end & Design wizard 🧙‍♂️
 -------------------------------
 
 I’m a front-end developer passionate about bringing designs to life with React & Javascript. I love crafting visually appealing and functional web pages, and I’m always open to learning new technologies and tackling challenging problems.
@@ -47,7 +47,7 @@ I’m a front-end developer passionate about bringing designs to life with React
 
 <a href="http://www.github.com/arpan-pro-learner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan-pro-learner&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## Now time for some dev jokes 😂
+## console.log("Show Some Dev Jokes 😁")
 <!-- Markdown -->
 
 [![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
