@@ -21,18 +21,18 @@ keeping this to pay Respect to boilerplate code
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arpan Srivastava
 ========================================================================================================================================
 
-Front-end & Design wizard 🧙‍♂️
+Full Stack & Design wizard 🧙‍♂️
 -------------------------------
 
-I’m a front-end developer passionate about bringing designs to life with React & Javascript. I love crafting visually appealing and functional web pages, and I’m always open to learning new technologies and tackling challenging problems.
+I’m a Full-Stack developer passionate about bringing designs to life with React and Javascript. I love crafting visually appealing and functional web pages and am always open to learning new technologies and tackling challenging problems.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Email me or connect on my socials](mailto:arpansrivastava786@gmail.com)
-* 🧠  I'm learning React JS, Next JS, Redux
-* ⚡  Other than code I like to read, play pc games, watch web series and anime sometimes
+* 🧠  I'm learning React JS, Next JS, Redux & Exploring AI 
+* ⚡  Other than code I like to read, play pc games, watch web series
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,xd,html,css,js,react,redux,nextjs,tailwind,materialui,bootstrap,firebase,nodejs,express,mongodb,vite&perline=9)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,xd,html,css,js,react,redux,nextjs,tailwind,materialui,bootstrap,firebase,nodejs,express,mongodb,vite,prisma,vercel,vscode,supabase,webflow&perline=10)](https://skillicons.dev) 
 
 
 ### Socials
